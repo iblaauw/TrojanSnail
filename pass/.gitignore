@@ -1,0 +1,6 @@
+Release+Asserts/
+autoconf/
+configure
+configure.status
+Makefile*
+config.*
