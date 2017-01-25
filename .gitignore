@@ -1,0 +1,11 @@
+build/
+bin/
+
+*.o
+*.zip
+*.swp
+
+unzip
+zip
+
+
